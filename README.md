@@ -1,1 +1,1 @@
-"Creating tables with database browser"
+"Insert data in database browser"
