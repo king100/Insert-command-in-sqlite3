@@ -1,4 +1,4 @@
-# Create a SQLite3 database and table
+# Insert a SQLite3 database and table
 
 
 # import the sqlite3 library
