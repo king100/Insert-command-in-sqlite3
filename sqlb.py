@@ -1,4 +1,4 @@
-# Insert a SQLite3 database and table
+# INSERT Command
 
 
 # import the sqlite3 library
@@ -12,10 +12,9 @@ cursor = conn.cursor()
 
 # insert data
 cursor.execute("INSERT INTO population VALUES('New York City', \
-'NY', 8200000)")
+	'NY', 8200000)")
 cursor.execute("INSERT INTO population VALUES('San Francisco', \
-'CA', 800000)")
-
+    'CA', 800000)")
 # commit the changes
 conn.commit()
 
