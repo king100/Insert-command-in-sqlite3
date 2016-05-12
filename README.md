@@ -1,1 +1,1 @@
-"Insert data in database browser"
+"Insert command"
