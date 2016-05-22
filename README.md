@@ -1,1 +1,1 @@
-"Insert command"
+"Execute many data"
